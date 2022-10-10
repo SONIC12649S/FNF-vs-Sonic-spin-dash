@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				59,
+				390
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hyper up"
+		},
+		{
+			"offsets": [
+				-21,
+				258
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hyper down"
+		},
+		{
+			"offsets": [
+				76,
+				320
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hyper idle"
+		},
+		{
+			"offsets": [
+				153,
+				389
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hyper left"
+		},
+		{
+			"offsets": [
+				-129,
+				302
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hyper right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hiper sonic jugable",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "hiper",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		252,
+		255
+	],
+	"camera_position": [
+		120,
+		-150
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1
+}

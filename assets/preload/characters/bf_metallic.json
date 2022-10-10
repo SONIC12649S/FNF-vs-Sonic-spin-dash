@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				-282
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				-2,
+				-215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up"
+		},
+		{
+			"offsets": [
+				-10,
+				-333
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down"
+		},
+		{
+			"offsets": [
+				2,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "bf hey"
+		},
+		{
+			"offsets": [
+				-39,
+				-284
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf right"
+		},
+		{
+			"offsets": [
+				55,
+				-283
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/metalbf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "mbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		182,
+		206
+	],
+	"camera_position": [
+		50,
+		340
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

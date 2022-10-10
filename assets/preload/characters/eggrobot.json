@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				796,
+				600
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "eggman idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				881,
+				541
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "eggman down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1095,
+				601
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "eggman left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				749,
+				651
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "eggman up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				728,
+				591
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "eggman right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				762,
+				599
+			],
+			"anim": "hit",
+			"fps": 24,
+			"name": "eggman hit",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eggrobot",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sonic remaster2",
+	"flip_x": false,
+	"healthbar_colors": [
+		251,
+		30,
+		55
+	],
+	"camera_position": [
+		80,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-281
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "totally dave NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-233
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "totally dave NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-223
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "totally dave NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-33,
+				-86
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "totally dave NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-238
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "totally dave idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sef",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "sef",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		122,
+		206
+	],
+	"camera_position": [
+		60,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

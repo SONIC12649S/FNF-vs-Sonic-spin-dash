@@ -1,0 +1,161 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				172
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "hiper miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				177
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "hiper miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				173
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "hiper miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				109,
+				390
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hyper up"
+		},
+		{
+			"offsets": [
+				89,
+				258
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hyper down"
+		},
+		{
+			"offsets": [
+				137,
+				172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "hiper miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				223,
+				309
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hyper right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				367
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hyper left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				76,
+				320
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hyper idle"
+		},
+		{
+			"offsets": [
+				110,
+				332
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "hyper dead"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [
+				51,
+				52
+			],
+			"name": "hyper dead"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [
+				51,
+				52
+			],
+			"name": "hyper dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hiper sonic jugable",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "hiper",
+	"flip_x": false,
+	"healthbar_colors": [
+		219,
+		252,
+		255
+	],
+	"camera_position": [
+		190,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				27,
+				50
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				52
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				24
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				8
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-93,
+				32
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-53,
+				29
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-4
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "ahin doge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				46
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ahin down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-111,
+				79
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "ahin hey",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				74
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ahin idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				89
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "ahin scare",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-128,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ahin left"
+		},
+		{
+			"offsets": [
+				-76,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ahin right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				128
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ahin up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ahin remaster",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ahin",
+	"flip_x": false,
+	"healthbar_colors": [
+		188,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

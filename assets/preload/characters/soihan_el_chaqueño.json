@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-128
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "soihan idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "soihan up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				68,
+				-233
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "soihan down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-17,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "soihan hey"
+		},
+		{
+			"offsets": [
+				188,
+				-133
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "soihan right"
+		},
+		{
+			"offsets": [
+				2,
+				-142
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "soihan left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soihan_el_chaqueño",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "soihan_el_chaqueño",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

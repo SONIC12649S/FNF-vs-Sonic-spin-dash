@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				281,
+				-104
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "luisito down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				291,
+				-51
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "luisito left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "luisito right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				155
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "luisito up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				247,
+				76
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "luisito idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/el_pillo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "msonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		122,
+		206
+	],
+	"camera_position": [
+		-250,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}
