@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				-5,
-				39
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				19,
-				33
+				5,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				8,
-				-21
+				-20,
+				-51
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				70
+				-46,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-11,
-				34
+				-48,
+				-7
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				16,
-				41
+				7,
+				19
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-3
+				-15,
+				-19
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				-16,
-				42
+				-46,
+				27
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-26,
-				42
+				-44,
+				22
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				-9,
-				39
+				-3,
+				5
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,8 +112,8 @@
 		},
 		{
 			"offsets": [
-				-6,
-				32
+				14,
+				18
 			],
 			"loop": false,
 			"fps": 24,
@@ -123,8 +123,8 @@
 		},
 		{
 			"offsets": [
-				-8,
-				34
+				-4,
+				0
 			],
 			"loop": true,
 			"fps": 24,
@@ -134,8 +134,8 @@
 		},
 		{
 			"offsets": [
-				49,
-				35
+				37,
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -145,8 +145,8 @@
 		},
 		{
 			"offsets": [
-				49,
-				29
+				37,
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -156,8 +156,8 @@
 		},
 		{
 			"offsets": [
-				49,
-				93
+				37,
+				69
 			],
 			"loop": false,
 			"fps": 24,
@@ -167,8 +167,8 @@
 		},
 		{
 			"offsets": [
-				50,
-				50
+				-10,
+				-16
 			],
 			"loop": false,
 			"fps": 24,
@@ -178,8 +178,8 @@
 		},
 		{
 			"offsets": [
-				309,
-				323
+				294,
+				267
 			],
 			"loop": false,
 			"fps": 24,
@@ -189,29 +189,18 @@
 		},
 		{
 			"offsets": [
-				-7,
-				-6
+				-40,
+				-40
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "pre-attack",
 			"indices": [],
 			"name": "bf pre attack"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				996,
-				169
-			],
-			"anim": "portal",
-			"fps": 24,
-			"name": "bf portal",
-			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BoyFriend_Assets_sonic",
+	"image": "characters/BOYFRIEND",
 	"position": [
 		0,
 		350
@@ -224,9 +213,9 @@
 		209
 	],
 	"camera_position": [
-		160,
-		-100
+		0,
+		0
 	],
-	"sing_duration": 5.99999999999999,
+	"sing_duration": 4,
 	"scale": 1
 }

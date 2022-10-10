@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				3,
-				0
+				1,
+				-4
 			],
 			"fps": 24,
 			"anim": "cheer",
@@ -48,7 +48,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-20
+				-19
 			],
 			"fps": 24,
 			"anim": "singRIGHT",
@@ -59,7 +59,7 @@
 			"loop": false,
 			"offsets": [
 				-2,
-				-21
+				-22
 			],
 			"fps": 24,
 			"anim": "sad",
@@ -84,7 +84,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-9
+				-8
 			],
 			"fps": 24,
 			"anim": "danceLeft",
@@ -112,7 +112,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-9
+				-8
 			],
 			"fps": 24,
 			"anim": "danceRight",
@@ -139,7 +139,7 @@
 			"loop": true,
 			"offsets": [
 				45,
-				-8
+				-9
 			],
 			"fps": 24,
 			"anim": "hairBlow",
@@ -155,7 +155,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				-9
+				-8
 			],
 			"fps": 24,
 			"anim": "hairFall",
@@ -179,7 +179,7 @@
 			"loop": true,
 			"offsets": [
 				-2,
-				-17
+				-16
 			],
 			"fps": 24,
 			"anim": "scared",
@@ -188,12 +188,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/gf sonic",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "gf",
+	"healthicon": "gf_tutorial",
 	"flip_x": false,
 	"healthbar_colors": [
 		165,
