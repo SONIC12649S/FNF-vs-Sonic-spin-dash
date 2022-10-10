@@ -1,0 +1,11 @@
+{
+	"idle_anim": "boyfriend idle",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		-90,
+		-39
+	],
+	"scale": 1,
+	"flipX": false,
+	"image": "Menu_bft"
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "gf idle",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		-32,
+		-8
+	],
+	"scale": 1,
+	"flipX": false,
+	"image": "Menu_gft"
+}

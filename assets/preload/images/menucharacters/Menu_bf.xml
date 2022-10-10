@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_bf.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bf idle0000" x="0" y="0" width="532" height="331" frameX="0" frameY="0" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0001" x="532" y="0" width="532" height="330" frameX="0" frameY="-1" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0002" x="1064" y="0" width="533" height="331" frameX="0" frameY="0" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0003" x="0" y="331" width="533" height="330" frameX="0" frameY="-1" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0004" x="533" y="331" width="531" height="331" frameX="-3" frameY="0" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0005" x="1064" y="331" width="532" height="330" frameX="-3" frameY="-1" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0006" x="0" y="662" width="528" height="331" frameX="-7" frameY="0" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0007" x="528" y="662" width="528" height="330" frameX="-7" frameY="-1" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0008" x="1056" y="662" width="528" height="331" frameX="-7" frameY="0" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0009" x="0" y="993" width="529" height="330" frameX="-7" frameY="-1" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0010" x="1056" y="662" width="528" height="331" frameX="-7" frameY="0" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0011" x="0" y="993" width="529" height="330" frameX="-7" frameY="-1" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0012" x="1056" y="662" width="528" height="331" frameX="-7" frameY="0" frameWidth="536" frameHeight="331"/>
+	<SubTexture name="bf idle0013" x="0" y="993" width="529" height="330" frameX="-7" frameY="-1" frameWidth="536" frameHeight="331"/>
+</TextureAtlas>
