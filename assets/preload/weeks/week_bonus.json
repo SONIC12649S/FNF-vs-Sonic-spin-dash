@@ -1,0 +1,86 @@
+{
+	"storyName": "bonus",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week_asonic",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"classic-song",
+			"sonic clasico",
+			[
+				60,
+				104,
+				195
+			]
+		],
+		[
+			"chemical-tail",
+			"tails",
+			[
+				211,
+				162,
+				31
+			]
+		],
+		[
+			"echidna",
+			"knu",
+			[
+				155,
+				45,
+				50
+			]
+		],
+		[
+			"genesis-battle",
+			"sonic genesis",
+			[
+				36,
+				36,
+				75
+			]
+		],
+		[
+			"metal-chaos",
+			"metal free play",
+			[
+				36,
+				36,
+				95
+			]
+		],
+		[
+			"chido",
+			"msonic",
+			[
+				0,
+				56,
+				115
+			]
+		],
+		[
+			"roll",
+			"sonic_fino",
+			[
+				0,
+				36,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "bonus"
+}

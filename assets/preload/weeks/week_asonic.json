@@ -1,0 +1,50 @@
+{
+	"storyName": "the hedgehog",
+	"difficulties": "easy, normal, hard",
+	"hideFreeplay": false,
+	"weekBackground": "sonic2",
+	"weekBefore": "week_1tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"funk-zone",
+			"sonic",
+			[
+				39,
+				104,
+				181
+			]
+		],
+		[
+			"death-rap",
+			"egg",
+			[
+				251,
+				30,
+				35
+			]
+		],
+		[
+			"emerald-power",
+			"mbf",
+			[
+				49,
+				176,
+				209
+			]
+		]
+	],
+	"weekCharacters": [
+		"sonic",
+		"bfs",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "sonic week"
+}

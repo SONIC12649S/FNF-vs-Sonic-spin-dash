@@ -1,0 +1,50 @@
+{
+	"storyName": "unused",
+	"difficulties": "hard",
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"endlessposivility",
+			"sonic_old",
+			[
+				51,
+				122,
+				215
+			]
+		],
+		[
+			"sidekick",
+			"tails",
+			[
+				251,
+				182,
+				31
+			]
+		],
+		[
+			"la-ley",
+			"soihan_el_chaqueño",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
