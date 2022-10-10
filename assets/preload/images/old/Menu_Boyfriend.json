@@ -1,0 +1,11 @@
+{
+	"idle_anim": "bf idle dance",
+	"image": "Menu_Boyfriend",
+	"position": [
+		91,
+		-21
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "bf hey!!"
+}

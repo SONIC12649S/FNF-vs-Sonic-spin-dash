@@ -1,0 +1,11 @@
+{
+	"idle_anim": "gf dancing beat",
+	"image": "Menu_girlfriend",
+	"position": [
+		121,
+		159
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "bf hey!!"
+}

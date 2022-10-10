@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ihan_3.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ihan down0000" x="0" y="0" width="432" height="568" frameX="0" frameY="-15" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0001" x="0" y="0" width="432" height="568" frameX="0" frameY="-15" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0002" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0003" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0004" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0005" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0006" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0007" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0008" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0009" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0010" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0011" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0012" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0013" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0014" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0015" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0016" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0017" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0018" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0019" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0020" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0021" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0022" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan down0023" x="432" y="0" width="413" height="583" frameX="-9" frameY="0" frameWidth="432" frameHeight="583"/>
+	<SubTexture name="ihan hey0000" x="845" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0001" x="1169" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0002" x="1493" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0003" x="1817" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0004" x="2141" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0005" x="2465" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0006" x="1817" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0007" x="1817" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0008" x="1817" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0009" x="2789" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0010" x="2789" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0011" x="1817" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0012" x="1817" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0013" x="1817" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0014" x="1817" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0015" x="3113" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0016" x="3113" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0017" x="3437" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0018" x="3437" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0019" x="3437" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0020" x="3761" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0021" x="3761" y="0" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0022" x="0" y="656" width="334" height="653" frameX="0" frameY="-3" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0023" x="0" y="656" width="334" height="653" frameX="0" frameY="-3" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0024" x="334" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0025" x="334" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0026" x="334" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0027" x="658" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0028" x="658" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0029" x="658" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0030" x="658" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0031" x="982" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0032" x="1306" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0033" x="1306" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0034" x="1306" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0035" x="1306" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0036" x="1630" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0037" x="1954" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0038" x="2278" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0039" x="2278" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0040" x="2278" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0041" x="2602" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0042" x="2602" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0043" x="2926" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0044" x="2926" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0045" x="3250" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0046" x="3250" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0047" x="3574" y="656" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0048" x="0" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0049" x="324" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0050" x="648" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0051" x="972" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0052" x="972" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0053" x="1296" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0054" x="1296" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0055" x="1296" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0056" x="1296" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0057" x="1620" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0058" x="1620" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0059" x="1620" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0060" x="1620" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan hey0061" x="1944" y="1312" width="324" height="656" frameX="-6" frameY="0" frameWidth="334" frameHeight="656"/>
+	<SubTexture name="ihan idle0000" x="2268" y="1312" width="305" height="628" frameX="-3" frameY="-29" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0001" x="2268" y="1312" width="305" height="628" frameX="-3" frameY="-29" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0002" x="2573" y="1312" width="298" height="637" frameX="-5" frameY="-20" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0003" x="2573" y="1312" width="298" height="637" frameX="-5" frameY="-20" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0004" x="2871" y="1312" width="305" height="651" frameX="-9" frameY="-6" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0005" x="2871" y="1312" width="305" height="651" frameX="-9" frameY="-6" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0006" x="3176" y="1312" width="319" height="657" frameX="-2" frameY="0" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0007" x="3176" y="1312" width="319" height="657" frameX="-2" frameY="0" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0008" x="3495" y="1312" width="324" height="656" frameX="0" frameY="-1" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0009" x="3495" y="1312" width="324" height="656" frameX="0" frameY="-1" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0010" x="3495" y="1312" width="324" height="656" frameX="0" frameY="-1" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0011" x="3495" y="1312" width="324" height="656" frameX="0" frameY="-1" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0012" x="3495" y="1312" width="324" height="656" frameX="0" frameY="-1" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan idle0013" x="3495" y="1312" width="324" height="656" frameX="0" frameY="-1" frameWidth="324" frameHeight="657"/>
+	<SubTexture name="ihan left0000" x="0" y="1969" width="567" height="671" frameX="0" frameY="-1" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0001" x="0" y="1969" width="567" height="671" frameX="0" frameY="-1" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0002" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0003" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0004" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0005" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0006" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0007" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0008" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0009" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0010" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0011" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0012" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0013" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0014" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0015" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0016" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0017" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0018" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0019" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0020" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0021" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0022" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan left0023" x="567" y="1969" width="547" height="672" frameX="-20" frameY="0" frameWidth="567" frameHeight="672"/>
+	<SubTexture name="ihan right0000" x="1114" y="1969" width="422" height="652" frameX="-8" frameY="-12" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0001" x="1114" y="1969" width="422" height="652" frameX="-8" frameY="-12" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0002" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0003" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0004" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0005" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0006" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0007" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0008" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0009" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0010" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0011" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0012" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0013" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0014" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0015" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0016" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0017" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0018" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0019" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan right0020" x="1536" y="1969" width="419" height="665" frameX="0" frameY="0" frameWidth="430" frameHeight="665"/>
+	<SubTexture name="ihan up 0000" x="1955" y="1969" width="371" height="758" frameX="0" frameY="0" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0001" x="1955" y="1969" width="371" height="758" frameX="0" frameY="0" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0002" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0003" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0004" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0005" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0006" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0007" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0008" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0009" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0010" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0011" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0012" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0013" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0014" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0015" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0016" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0017" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0018" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0019" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0020" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0021" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0022" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+	<SubTexture name="ihan up 0023" x="2326" y="1969" width="382" height="752" frameX="-2" frameY="-6" frameWidth="384" frameHeight="758"/>
+</TextureAtlas>

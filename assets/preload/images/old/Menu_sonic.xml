@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_sonic.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonic Idle 0000" x="0" y="0" width="536" height="610" frameX="0" frameY="-9" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0001" x="536" y="0" width="512" height="610" frameX="0" frameY="-9" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0002" x="1048" y="0" width="532" height="614" frameX="-7" frameY="-5" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0003" x="1580" y="0" width="539" height="614" frameX="-7" frameY="-5" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0004" x="2119" y="0" width="505" height="614" frameX="-10" frameY="-5" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0005" x="2624" y="0" width="471" height="614" frameX="-10" frameY="-5" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0006" x="3095" y="0" width="486" height="615" frameX="-17" frameY="-4" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0007" x="3581" y="0" width="462" height="615" frameX="-17" frameY="-4" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0008" x="0" y="615" width="462" height="619" frameX="-17" frameY="0" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0009" x="462" y="615" width="501" height="619" frameX="-17" frameY="0" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0010" x="963" y="615" width="477" height="619" frameX="-17" frameY="0" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0011" x="1440" y="615" width="508" height="619" frameX="-17" frameY="0" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0012" x="1948" y="615" width="517" height="619" frameX="-17" frameY="0" frameWidth="546" frameHeight="619"/>
+	<SubTexture name="Sonic Idle 0013" x="2465" y="615" width="489" height="619" frameX="-17" frameY="0" frameWidth="546" frameHeight="619"/>
+</TextureAtlas>

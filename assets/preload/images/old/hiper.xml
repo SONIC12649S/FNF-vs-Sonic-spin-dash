@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hiper.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hiper down0000" x="0" y="0" width="625" height="671" frameX="0" frameY="-17" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0001" x="0" y="0" width="625" height="671" frameX="0" frameY="-17" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0002" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0003" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0004" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0005" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0006" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0007" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0008" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0009" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0010" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0011" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0012" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0013" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0014" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0015" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0016" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0017" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0018" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper down0019" x="625" y="0" width="608" height="687" frameX="-11" frameY="0" frameWidth="625" frameHeight="688"/>
+	<SubTexture name="hiper idle 20000" x="1233" y="0" width="561" height="676" frameX="-5" frameY="-40" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20001" x="1794" y="0" width="540" height="697" frameX="-8" frameY="-19" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20002" x="2334" y="0" width="516" height="697" frameX="-8" frameY="-19" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20003" x="2850" y="0" width="501" height="708" frameX="-5" frameY="-8" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20004" x="3351" y="0" width="501" height="708" frameX="-5" frameY="-8" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20005" x="0" y="708" width="526" height="716" frameX="-4" frameY="0" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20006" x="526" y="708" width="508" height="716" frameX="-4" frameY="0" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20007" x="1034" y="708" width="539" height="716" frameX="0" frameY="0" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20008" x="1573" y="708" width="539" height="716" frameX="0" frameY="0" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20009" x="2112" y="708" width="517" height="716" frameX="0" frameY="0" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20010" x="2629" y="708" width="503" height="716" frameX="0" frameY="0" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20011" x="3132" y="708" width="503" height="716" frameX="0" frameY="0" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20012" x="0" y="1424" width="503" height="716" frameX="0" frameY="0" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20013" x="503" y="1424" width="532" height="676" frameX="-5" frameY="-40" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper idle 20014" x="1233" y="0" width="561" height="676" frameX="-5" frameY="-40" frameWidth="566" frameHeight="716"/>
+	<SubTexture name="hiper left0000" x="1035" y="1424" width="640" height="654"/>
+	<SubTexture name="hiper left0001" x="1035" y="1424" width="640" height="654"/>
+	<SubTexture name="hiper left0002" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0003" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0004" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0005" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0006" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0007" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0008" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0009" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0010" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0011" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0012" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0013" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0014" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0015" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0016" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0017" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0018" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper left0019" x="1675" y="1424" width="632" height="654" frameX="-8" frameY="0" frameWidth="640" frameHeight="654"/>
+	<SubTexture name="hiper miss0000" x="2307" y="1424" width="670" height="559" frameX="-11" frameY="0" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0001" x="2977" y="1424" width="670" height="559" frameX="-6" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0002" x="0" y="2140" width="670" height="559" frameX="-6" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0003" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0004" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0005" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0006" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0007" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0008" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0009" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0010" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0011" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0012" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0013" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0014" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0015" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0016" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0017" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0018" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0019" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0020" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0021" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0022" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0023" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0024" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0025" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0026" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0027" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0028" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0029" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0030" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0031" x="0" y="2140" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0032" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper miss0033" x="2977" y="1424" width="670" height="559" frameX="0" frameY="-19" frameWidth="681" frameHeight="578"/>
+	<SubTexture name="hiper right0000" x="670" y="2140" width="515" height="666" frameX="-5" frameY="-1" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0001" x="670" y="2140" width="515" height="666" frameX="-5" frameY="-1" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0002" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0003" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0004" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0005" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0006" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0007" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0008" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0009" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0010" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0011" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0012" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0013" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0014" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0015" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0016" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0017" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0018" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper right0019" x="1185" y="2140" width="505" height="669" frameX="0" frameY="0" frameWidth="520" frameHeight="669"/>
+	<SubTexture name="hiper up0000" x="1690" y="2140" width="464" height="632" frameX="-29" frameY="0" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0001" x="1690" y="2140" width="464" height="632" frameX="-29" frameY="0" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0002" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0003" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0004" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0005" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0006" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0007" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0008" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0009" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0010" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0011" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0012" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0013" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0014" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0015" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0016" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0017" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0018" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+	<SubTexture name="hiper up0019" x="2154" y="2140" width="519" height="611" frameX="0" frameY="-21" frameWidth="519" frameHeight="632"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				40
+			],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Pico NOTE LEFT miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				64
+			],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Pico Note Right Miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-28
+			],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Pico Down Note MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				66
+			],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "pico Up note miss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-91
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "totally dave NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				80
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "totally dave NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-29
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "totally dave idle dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				3,
+				-38
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "totally dave NOTE LEFT"
+		},
+		{
+			"offsets": [
+				110,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "totally dave NOTE RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ralsei",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "ralsei",
+	"flip_x": true,
+	"healthbar_colors": [
+		75,
+		255,
+		140
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
