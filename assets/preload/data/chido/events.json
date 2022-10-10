@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 3.6,
+		"stage": "cha",
+		"player1": "bf",
+		"player2": "sonic_movie",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luisito"
+					],
+					[
+						"Zoom",
+						"1.2",
+						""
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Image Flash",
+						"sol",
+						"999"
+					]
+				]
+			],
+			[
+				1657.98611111111,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				1662.32638888889,
+				[
+					[
+						"Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1666.66666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic_movie"
+					]
+				]
+			],
+			[
+				13333.3333333333,
+				[
+					[
+						"Zoom 2.0",
+						"2.0",
+						"1.6"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Flashing Camera",
+						"0.7",
+						"white"
+					]
+				]
+			],
+			[
+				26666.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luisito"
+					]
+				]
+			],
+			[
+				26671.0069444444,
+				[
+					[
+						"Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				28333.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic_movie"
+					]
+				]
+			],
+			[
+				28430.9895833333,
+				[
+					[
+						"Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				53333.3333333333,
+				[
+					[
+						"Change Character",
+						"dad",
+						"luisito"
+					]
+				]
+			],
+			[
+				53333.3333333333,
+				[
+					[
+						"Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				55000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic_movie"
+					]
+				]
+			],
+			[
+				55104.1666666666,
+				[
+					[
+						"Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 144,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "chido"
+	}
+}
