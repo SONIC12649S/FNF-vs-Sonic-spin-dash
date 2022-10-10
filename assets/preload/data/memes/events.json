@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "BeanHillZone",
+		"player1": "bf_bean",
+		"player2": "sonic_bean",
+		"player3": null,
+		"events": [
+			[
+				33547.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"gf_playable"
+					]
+				]
+			],
+			[
+				33600,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf_invisible"
+					]
+				]
+			],
+			[
+				40462.5,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf_bean"
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf_invisible"
+					]
+				]
+			],
+			[
+				49600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gf_playable"
+					]
+				]
+			],
+			[
+				50700,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic_bean"
+					]
+				]
+			],
+			[
+				51400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gf_playable"
+					]
+				]
+			],
+			[
+				51700,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic_bean"
+					]
+				]
+			],
+			[
+				57400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gf_playable"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic_bean"
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gf_playable"
+					]
+				]
+			],
+			[
+				75100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonic_bean"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf_invisible",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "memes"
+	}
+}
