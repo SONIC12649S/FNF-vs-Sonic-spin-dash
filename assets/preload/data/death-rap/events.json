@@ -1,0 +1,2244 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "DeathEgg",
+		"player1": "sonic_alt",
+		"player2": "eggrobot",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					],
+					[
+						"Cinematics",
+						"1",
+						""
+					],
+					[
+						"death sonic_alt",
+						"",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Image Flash",
+						"rgb",
+						"999"
+					]
+				]
+			],
+			[
+				1565.93406593407,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				2060.43956043956,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				2472.52747252747,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				2884.61538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				3214.28571428571,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				3543.95604395604,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				4450.54945054945,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				4862.63736263736,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				5357.14285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				5357.14285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				5686.81318681319,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				6181.31868131868,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				6428.57142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				6923.07692307692,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				7252.74725274725,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				7582.41758241758,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				8159.34065934066,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				8324.17582417583,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				8901.0989010989,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				9395.6043956044,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				9642.85714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				9972.52747252747,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				10467.032967033,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				10796.7032967033,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				11043.956043956,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				11456.043956044,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				12197.8021978022,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				12280.2197802198,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12362.6373626374,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				12367.7884615385,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				12445.0549450549,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"bf"
+					]
+				]
+			],
+			[
+				12692.3076923077,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				13021.978021978,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				13434.0659340659,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					]
+				]
+			],
+			[
+				13516.4835164835,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				13516.4835164835,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				13846.1538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				14010.989010989,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				14587.9120879121,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				15329.6703296703,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				16153.8461538462,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				16483.5164835165,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				16895.6043956044,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				17637.3626373626,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				17967.032967033,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				18543.9560439561,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				18956.043956044,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				19203.2967032967,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				19945.054945055,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				20357.1428571429,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				20686.8131868132,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				21510.989010989,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				21923.0769230769,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				22747.2527472528,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				22994.5054945055,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				23406.5934065934,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				23653.8461538462,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				23901.0989010989,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				24148.3516483517,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				24230.7692307692,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				24313.1868131868,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				24395.6043956044,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				24642.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				25384.6153846154,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				25549.4505494506,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				25714.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				26043.9560439561,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				26620.8791208791,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				26950.5494505495,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				27362.6373626374,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				27774.7252747253,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				28186.8131868132,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				28434.0659340659,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				29258.2417582418,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				29423.0769230769,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				30824.1758241758,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				31236.2637362638,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				31730.7692307692,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				32142.8571428572,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				32390.1098901099,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				32802.1978021978,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				33214.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				33543.9560439561,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				33873.6263736264,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				34697.8021978022,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				35109.8901098901,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				35439.5604395605,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				35934.0659340659,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				36263.7362637363,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				36428.5714285714,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				36510.989010989,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				36593.4065934066,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				36675.8241758242,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				37170.3296703297,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				37664.8351648352,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				38489.010989011,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				38983.5164835165,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				40054.9450549451,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				41620.8791208791,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				43104.3956043956,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				43351.6483516483,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				44587.9120879121,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				45329.6703296703,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				45659.3406593406,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				46318.6813186813,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				47802.1978021978,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				48379.1208791209,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				49532.967032967,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				49615.3846153846,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				50192.3076923077,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				50521.978021978,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				50769.2307692308,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				51181.3186813187,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				51593.4065934066,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				51840.6593406593,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				52170.3296703297,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				52500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				52747.2527472527,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				52994.5054945055,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"bf"
+					],
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				53241.7582417582,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				53736.2637362637,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				54065.934065934,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					]
+				]
+			],
+			[
+				54478.0219780219,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				54890.1098901099,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				55137.3626373626,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				55467.0329670329,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				55879.1208791208,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				56291.2087912088,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				56703.2967032967,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				57032.967032967,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				57445.0549450549,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				57857.1428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				58186.8131868132,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				59010.989010989,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				59423.0769230769,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				59835.1648351648,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				60164.8351648351,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				60906.5934065934,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				61236.2637362637,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				61565.934065934,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				63543.956043956,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				63956.0439560439,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				64203.2967032967,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				64450.5494505494,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				64697.8021978021,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				65109.8901098901,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				65521.978021978,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				65934.0659340659,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				66346.1538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				66675.8241758241,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				67582.4175824175,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				67829.6703296703,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				68076.923076923,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				68324.1758241758,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				68489.0109890109,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				68983.5164835164,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				69148.3516483516,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				69560.4395604395,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				69725.2747252747,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				70219.7802197802,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				71126.3736263736,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				71208.7912087912,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				71291.2087912088,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				71373.6263736263,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				71950.5494505494,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				72197.8021978022,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				72527.4725274725,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				72609.8901098901,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				72692.3076923077,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				72774.7252747252,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				72857.1428571428,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				73186.8131868132,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				73681.3186813187,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				73846.1538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				74010.989010989,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				74340.6593406593,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				75576.9230769231,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				76071.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				76483.5164835165,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				77390.1098901099,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				78956.043956044,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				79615.3846153846,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				80521.978021978,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				82005.4945054945,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				83653.8461538462,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				85054.9450549451,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				85714.2857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				86620.8791208792,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				88186.8131868132,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				88846.1538461539,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				89835.1648351649,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				91401.0989010989,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				91895.6043956044,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				92884.6153846154,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				94450.5494505495,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				95027.4725274726,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				95934.065934066,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				97417.5824175825,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				97664.8351648352,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				97829.6703296704,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				97994.5054945056,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				98159.3406593407,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				98406.5934065935,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				98489.0109890111,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				98571.4285714286,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				98653.8461538462,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				98736.2637362638,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				98818.6813186814,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.03"
+					]
+				]
+			],
+			[
+				98901.098901099,
+				[
+					[
+						"Add Camera Zoom",
+						"Camera zoom add (Default: 0.015)",
+						"UI zoom add (Default: 0.03)"
+					]
+				]
+			],
+			[
+				99148.3516483517,
+				[
+					[
+						"DodgeEvent",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				99395.6043956045,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"bf"
+					]
+				]
+			],
+			[
+				100384.615384615,
+				[
+					[
+						"Play Animation",
+						"hit",
+						"dad"
+					]
+				]
+			],
+			[
+				100467.032967033,
+				[
+					[
+						"Flash Camera",
+						"",
+						""
+					]
+				]
+			],
+			[
+				100477.335164835,
+				[
+					[
+						"Flash Camera",
+						"nada",
+						"99"
+					]
+				]
+			],
+			[
+				100479.395604396,
+				[
+					[
+						"Image Flash",
+						"nada",
+						"99"
+					]
+				]
+			],
+			[
+				100487.637362637,
+				[
+					[
+						"Image Flash",
+						"nada",
+						"99"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_invisible",
+		"bpm": 182,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "death-rap"
+	}
+}
