@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonic Clasico.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonic Abajo0000" x="0" y="0" width="768" height="752" frameX="-40" frameY="0" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0001" x="0" y="0" width="768" height="752" frameX="-40" frameY="0" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0002" x="768" y="0" width="773" height="724" frameX="-37" frameY="-36" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0003" x="768" y="0" width="773" height="724" frameX="-37" frameY="-36" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0004" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0005" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0006" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0007" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0008" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0009" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0010" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0011" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0012" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0013" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0014" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0015" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0016" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0017" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0018" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0019" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0020" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0021" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0022" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0023" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0024" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0025" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0026" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0027" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0028" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0029" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0030" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0031" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0032" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0033" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0034" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0035" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0036" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0037" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0038" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0039" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0040" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0041" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0042" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0043" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0044" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0045" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0046" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0047" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0048" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0049" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0050" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0051" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0052" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0053" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0054" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0055" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0056" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0057" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0058" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0059" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0060" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0061" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0062" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0063" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0064" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0065" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0066" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0067" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0068" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0069" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0070" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0071" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0072" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0073" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0074" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0075" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0076" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0077" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0078" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0079" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0080" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0081" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0082" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0083" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0084" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0085" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0086" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0087" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0088" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0089" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0090" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0091" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0092" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0093" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0094" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0095" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0096" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0097" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0098" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0099" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0100" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0101" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0102" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0103" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0104" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0105" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0106" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0107" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Abajo0108" x="1541" y="0" width="802" height="721" frameX="0" frameY="-48" frameWidth="810" frameHeight="769"/>
+	<SubTexture name="Sonic Clasico Adelante0000" x="2343" y="0" width="783" height="885" frameX="-9" frameY="-12" frameWidth="832" frameHeight="903"/>
+	<SubTexture name="Sonic Clasico Adelante0001" x="2343" y="0" width="783" height="885" frameX="-9" frameY="-12" frameWidth="832" frameHeight="903"/>
+	<SubTexture name="Sonic Clasico Adelante0002" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0003" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0004" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0005" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0006" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0007" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0008" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0009" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0010" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0011" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0012" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0013" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0014" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0015" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0016" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0017" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0018" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0019" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0020" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0021" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0022" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0023" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0024" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0025" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0026" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0027" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0028" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0029" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0030" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0031" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0032" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0033" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0034" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0035" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0036" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0037" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0038" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0039" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0040" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0041" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0042" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0043" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0044" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0045" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0046" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0047" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0048" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0049" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Adelante0050" x="3126" y="0" width="832" height="903"/>
+	<SubTexture name="Sonic Clasico Arriba0000" x="0" y="903" width="603" height="774" frameX="-68" frameY="-2" frameWidth="739" frameHeight="776"/>
+	<SubTexture name="Sonic Clasico Arriba0001" x="0" y="903" width="603" height="774" frameX="-68" frameY="-2" frameWidth="739" frameHeight="776"/>
+	<SubTexture name="Sonic Clasico Arriba0002" x="0" y="903" width="603" height="774" frameX="-68" frameY="-2" frameWidth="739" frameHeight="776"/>
+	<SubTexture name="Sonic Clasico Arriba0003" x="0" y="903" width="603" height="774" frameX="-68" frameY="-2" frameWidth="739" frameHeight="776"/>
+	<SubTexture name="Sonic Clasico Arriba0004" x="0" y="903" width="603" height="774" frameX="-68" frameY="-2" frameWidth="739" frameHeight="776"/>
+	<SubTexture name="Sonic Clasico Arriba0005" x="603" y="903" width="676" height="758" frameX="-31" frameY="-6" frameWidth="739" frameHeight="776"/>
+	<SubTexture name="Sonic Clasico Arriba0006" x="603" y="903" width="676" height="758" frameX="-31" frameY="-6" frameWidth="739" frameHeight="776"/>
+	<SubTexture name="Sonic Clasico Arriba0007" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0008" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0009" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0010" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0011" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0012" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0013" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0014" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0015" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0016" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0017" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0018" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0019" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0020" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0021" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0022" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0023" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Arriba0024" x="1279" y="903" width="739" height="776"/>
+	<SubTexture name="Sonic Clasico Derecha0000" x="2018" y="903" width="859" height="883" frameX="-21" frameY="-39" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0001" x="2018" y="903" width="859" height="883" frameX="-21" frameY="-39" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0002" x="2877" y="903" width="851" height="918" frameX="-29" frameY="-10" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0003" x="2877" y="903" width="851" height="918" frameX="-29" frameY="-10" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0004" x="0" y="1821" width="879" height="925" frameX="-4" frameY="-9" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0005" x="0" y="1821" width="879" height="925" frameX="-4" frameY="-9" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0006" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0007" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0008" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0009" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0010" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0011" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0012" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0013" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0014" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0015" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0016" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0017" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0018" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0019" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0020" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0021" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0022" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0023" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0024" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0025" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0026" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0027" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0028" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0029" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0030" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0031" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0032" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0033" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0034" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0035" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0036" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0037" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0038" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0039" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0040" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0041" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0042" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0043" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0044" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0045" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0046" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0047" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0048" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0049" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0050" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0051" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0052" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0053" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0054" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0055" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0056" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0057" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0058" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0059" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0060" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0061" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0062" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0063" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0064" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0065" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0066" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0067" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0068" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0069" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0070" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0071" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0072" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0073" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0074" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0075" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0076" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0077" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0078" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0079" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0080" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0081" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0082" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0083" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0084" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0085" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0086" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0087" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0088" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0089" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0090" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0091" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0092" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0093" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0094" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0095" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0096" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0097" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0098" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0099" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0100" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0101" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0102" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0103" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0104" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0105" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0106" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0107" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0108" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0109" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0110" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0111" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0112" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0113" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0114" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0115" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0116" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0117" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0118" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0119" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0120" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0121" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0122" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0123" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0124" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0125" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0126" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0127" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0128" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0129" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0130" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0131" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0132" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0133" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0134" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0135" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0136" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0137" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0138" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0139" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0140" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0141" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0142" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0143" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0144" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0145" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0146" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0147" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0148" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0149" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0150" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0151" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0152" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0153" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0154" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0155" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0156" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0157" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0158" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0159" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0160" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0161" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0162" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0163" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0164" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0165" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0166" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0167" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0168" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0169" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0170" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0171" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0172" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0173" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0174" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0175" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0176" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0177" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0178" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0179" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0180" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0181" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0182" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0183" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0184" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0185" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0186" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0187" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0188" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0189" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0190" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0191" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0192" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0193" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0194" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0195" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0196" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0197" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0198" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0199" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0200" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0201" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0202" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0203" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0204" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0205" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0206" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0207" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0208" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0209" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0210" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0211" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0212" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0213" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0214" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico Derecha0215" x="879" y="1821" width="870" height="936" frameX="0" frameY="0" frameWidth="883" frameHeight="936"/>
+	<SubTexture name="Sonic Clasico IDLE0000" x="1749" y="1821" width="640" height="701" frameX="0" frameY="-28" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0001" x="1749" y="1821" width="640" height="701" frameX="0" frameY="-28" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0002" x="2389" y="1821" width="631" height="702" frameX="-3" frameY="-21" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0003" x="2389" y="1821" width="631" height="702" frameX="-3" frameY="-21" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0004" x="3020" y="1821" width="587" height="707" frameX="-17" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0005" x="3020" y="1821" width="587" height="707" frameX="-17" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0006" x="0" y="2757" width="585" height="696" frameX="-14" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0007" x="0" y="2757" width="585" height="696" frameX="-14" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0008" x="585" y="2757" width="558" height="707" frameX="-35" frameY="0" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0009" x="585" y="2757" width="558" height="707" frameX="-35" frameY="0" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0010" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0011" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0012" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0013" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0014" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0015" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0016" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0017" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0018" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0019" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0020" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0021" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0022" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0023" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+	<SubTexture name="Sonic Clasico IDLE0024" x="1143" y="2757" width="570" height="696" frameX="-29" frameY="-10" frameWidth="640" frameHeight="729"/>
+</TextureAtlas>

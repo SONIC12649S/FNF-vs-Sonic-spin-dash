@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_t.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dancing Beat0000" x="0" y="0" width="466" height="479" frameX="-12" frameY="-17" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0001" x="0" y="0" width="466" height="479" frameX="-12" frameY="-17" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0002" x="466" y="0" width="468" height="479" frameX="-4" frameY="-17" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0003" x="934" y="0" width="468" height="479" frameX="-4" frameY="-17" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0004" x="1402" y="0" width="468" height="483" frameX="-2" frameY="-13" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0005" x="1870" y="0" width="468" height="482" frameX="-2" frameY="-13" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0006" x="2338" y="0" width="468" height="484" frameX="-4" frameY="-11" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0007" x="2806" y="0" width="469" height="490" frameX="-19" frameY="-5" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0008" x="2806" y="0" width="469" height="490" frameX="-19" frameY="-5" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0009" x="2806" y="0" width="469" height="490" frameX="-19" frameY="-5" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0010" x="3275" y="0" width="468" height="489" frameX="-12" frameY="-6" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0011" x="3275" y="0" width="468" height="489" frameX="-12" frameY="-6" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0012" x="3275" y="0" width="468" height="489" frameX="-12" frameY="-6" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0013" x="3743" y="0" width="467" height="490" frameX="-10" frameY="-5" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0014" x="3743" y="0" width="467" height="490" frameX="-10" frameY="-5" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0015" x="4210" y="0" width="452" height="496" frameX="0" frameY="0" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0016" x="4210" y="0" width="452" height="496" frameX="0" frameY="0" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0017" x="4662" y="0" width="457" height="495" frameX="-3" frameY="-1" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0018" x="5119" y="0" width="457" height="495" frameX="-3" frameY="-1" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0019" x="5576" y="0" width="459" height="494" frameX="-7" frameY="-2" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0020" x="6035" y="0" width="459" height="493" frameX="-7" frameY="-2" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0021" x="6494" y="0" width="463" height="491" frameX="-8" frameY="-4" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0022" x="6957" y="0" width="466" height="493" frameX="-5" frameY="-2" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0023" x="6957" y="0" width="466" height="493" frameX="-5" frameY="-2" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0024" x="6957" y="0" width="466" height="493" frameX="-5" frameY="-2" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0025" x="7423" y="0" width="468" height="490" frameX="-20" frameY="-5" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0026" x="7423" y="0" width="468" height="490" frameX="-20" frameY="-5" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0027" x="7423" y="0" width="468" height="490" frameX="-20" frameY="-5" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0028" x="0" y="496" width="469" height="489" frameX="-21" frameY="-6" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Dancing Beat0029" x="0" y="496" width="469" height="489" frameX="-21" frameY="-6" frameWidth="490" frameHeight="496"/>
+	<SubTexture name="GF Down Note0000" x="469" y="496" width="483" height="469" frameX="0" frameY="-1" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0001" x="469" y="496" width="483" height="469" frameX="0" frameY="-1" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0002" x="952" y="496" width="469" height="470" frameX="-10" frameY="0" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0003" x="952" y="496" width="469" height="470" frameX="-10" frameY="0" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0004" x="1421" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0005" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0006" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0007" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0008" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0009" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0010" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0011" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0012" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0013" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Down Note0014" x="1890" y="496" width="469" height="468" frameX="-10" frameY="-2" frameWidth="483" frameHeight="470"/>
+	<SubTexture name="GF Right Note0000" x="2359" y="496" width="469" height="486" frameX="-12" frameY="-2" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0001" x="2359" y="496" width="469" height="486" frameX="-12" frameY="-2" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0002" x="2828" y="496" width="468" height="487" frameX="-2" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0003" x="2828" y="496" width="468" height="487" frameX="-2" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0004" x="3296" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0005" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0006" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0007" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0008" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0009" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0010" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0011" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0012" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0013" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Right Note0014" x="3765" y="496" width="469" height="487" frameX="0" frameY="0" frameWidth="481" frameHeight="488"/>
+	<SubTexture name="GF Up Note0000" x="4234" y="496" width="455" height="498" frameX="-5" frameY="-6" frameWidth="465" frameHeight="504"/>
+	<SubTexture name="GF Up Note0001" x="4234" y="496" width="455" height="498" frameX="-5" frameY="-6" frameWidth="465" frameHeight="504"/>
+	<SubTexture name="GF Up Note0002" x="4689" y="496" width="465" height="502" frameX="0" frameY="-2" frameWidth="465" frameHeight="504"/>
+	<SubTexture name="GF Up Note0003" x="4689" y="496" width="465" height="502" frameX="0" frameY="-2" frameWidth="465" frameHeight="504"/>
+	<SubTexture name="GF Up Note0004" x="5154" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0005" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0006" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0007" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0008" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0009" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0010" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0011" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0012" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0013" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF Up Note0014" x="5619" y="496" width="465" height="504"/>
+	<SubTexture name="GF left note0000" x="6084" y="496" width="468" height="487" frameX="0" frameY="0" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0001" x="6084" y="496" width="468" height="487" frameX="0" frameY="0" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0002" x="6552" y="496" width="469" height="483" frameX="-11" frameY="-2" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0003" x="6552" y="496" width="469" height="483" frameX="-11" frameY="-2" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0004" x="7021" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0005" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0006" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0007" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0008" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0009" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0010" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0011" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0012" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0013" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="GF left note0014" x="7490" y="496" width="469" height="482" frameX="-13" frameY="-3" frameWidth="482" frameHeight="487"/>
+	<SubTexture name="gf portal0000" x="0" y="1000" width="469" height="819" frameX="-228" frameY="-96" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0001" x="0" y="1000" width="469" height="819" frameX="-228" frameY="-96" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0002" x="469" y="1000" width="762" height="812" frameX="-44" frameY="-99" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0003" x="469" y="1000" width="762" height="812" frameX="-44" frameY="-99" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0004" x="1231" y="1000" width="850" height="820" frameX="0" frameY="-91" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0005" x="1231" y="1000" width="850" height="820" frameX="0" frameY="-91" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0006" x="2081" y="1000" width="826" height="817" frameX="-12" frameY="-95" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0007" x="2907" y="1000" width="826" height="839" frameX="-12" frameY="-73" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0008" x="2907" y="1000" width="826" height="839" frameX="-12" frameY="-73" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0009" x="3733" y="1000" width="826" height="839" frameX="-12" frameY="-73" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0010" x="4559" y="1000" width="826" height="840" frameX="-12" frameY="-72" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0011" x="5385" y="1000" width="826" height="841" frameX="-12" frameY="-71" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0012" x="6211" y="1000" width="826" height="842" frameX="-12" frameY="-70" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0013" x="7037" y="1000" width="826" height="843" frameX="-12" frameY="-69" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0014" x="7037" y="1000" width="826" height="843" frameX="-12" frameY="-69" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0015" x="7037" y="1000" width="826" height="843" frameX="-12" frameY="-69" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0016" x="7037" y="1000" width="826" height="843" frameX="-12" frameY="-69" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0017" x="7037" y="1000" width="826" height="843" frameX="-12" frameY="-70" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0018" x="6211" y="1000" width="826" height="842" frameX="-12" frameY="-71" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0019" x="5385" y="1000" width="826" height="841" frameX="-12" frameY="-72" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0020" x="3733" y="1000" width="826" height="839" frameX="-12" frameY="-73" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0021" x="3733" y="1000" width="826" height="839" frameX="-12" frameY="-73" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0022" x="3733" y="1000" width="826" height="839" frameX="-12" frameY="-73" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0023" x="3733" y="1000" width="826" height="839" frameX="-12" frameY="-73" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0024" x="5385" y="1000" width="826" height="841" frameX="-12" frameY="-72" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0025" x="6211" y="1000" width="826" height="842" frameX="-12" frameY="-70" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0026" x="0" y="1843" width="826" height="843" frameX="-12" frameY="-69" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0027" x="826" y="1843" width="826" height="845" frameX="-12" frameY="-67" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0028" x="826" y="1843" width="826" height="845" frameX="-12" frameY="-67" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0029" x="826" y="1843" width="826" height="845" frameX="-12" frameY="-67" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0030" x="826" y="1843" width="826" height="845" frameX="-12" frameY="-67" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0031" x="7037" y="1000" width="826" height="843" frameX="-12" frameY="-70" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0032" x="4559" y="1000" width="826" height="840" frameX="-12" frameY="-73" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0033" x="1652" y="1843" width="826" height="836" frameX="-12" frameY="-76" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0034" x="2478" y="1843" width="826" height="833" frameX="-12" frameY="-79" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0035" x="2478" y="1843" width="826" height="833" frameX="-12" frameY="-79" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0036" x="2478" y="1843" width="826" height="833" frameX="-12" frameY="-79" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0037" x="2478" y="1843" width="826" height="833" frameX="-12" frameY="-79" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0038" x="2478" y="1843" width="826" height="833" frameX="-12" frameY="-79" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0039" x="3304" y="1843" width="826" height="854" frameX="-12" frameY="-58" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0040" x="4130" y="1843" width="826" height="876" frameX="-12" frameY="-36" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0041" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0042" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0043" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0044" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0045" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0046" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0047" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0048" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0049" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0050" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0051" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0052" x="4956" y="1843" width="826" height="897" frameX="-12" frameY="-15" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0053" x="5782" y="1843" width="826" height="912" frameX="-12" frameY="0" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0054" x="6608" y="1843" width="826" height="742" frameX="-12" frameY="-170" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0055" x="0" y="2755" width="826" height="458" frameX="-12" frameY="-454" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0056" x="826" y="2755" width="826" height="266" frameX="-12" frameY="-646" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0057" x="1652" y="2755" width="846" height="266" frameX="-10" frameY="-645" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0058" x="1652" y="2755" width="846" height="266" frameX="-10" frameY="-645" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0059" x="2498" y="2755" width="776" height="267" frameX="-44" frameY="-643" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0060" x="2498" y="2755" width="776" height="267" frameX="-44" frameY="-643" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0061" x="3274" y="2755" width="247" height="267" frameX="-308" frameY="-638" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0062" x="3521" y="2755" width="18" height="266" frameX="-427" frameY="-641" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0063" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0064" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0065" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0066" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0067" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0068" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0069" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0070" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0071" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0072" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0073" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0074" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0075" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0076" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0077" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0078" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0079" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0080" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0081" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0082" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0083" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0084" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0085" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0086" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0087" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0088" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0089" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0090" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0091" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0092" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0093" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0094" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0095" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0096" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0097" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0098" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0099" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0100" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0101" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0102" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0103" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0104" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0105" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0106" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0107" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0108" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0109" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0110" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0111" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0112" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0113" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0114" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0115" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0116" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0117" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0118" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0119" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0120" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0121" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0122" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0123" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf portal0124" x="3539" y="2755" width="9" height="9" frameX="-430" frameY="-847" frameWidth="856" frameHeight="915"/>
+	<SubTexture name="gf talk0000" x="3548" y="2755" width="481" height="480" frameX="0" frameY="-7" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0001" x="3548" y="2755" width="481" height="480" frameX="0" frameY="-7" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0002" x="4029" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0003" x="4029" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0004" x="4498" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0005" x="4498" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0006" x="4967" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0007" x="4967" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0008" x="5436" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0009" x="5905" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0010" x="5905" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0011" x="6374" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0012" x="6374" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0013" x="6374" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0014" x="6843" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0015" x="6843" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0016" x="7312" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0017" x="7312" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0018" x="7312" y="2755" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0019" x="0" y="3242" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0020" x="0" y="3242" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0021" x="0" y="3242" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0022" x="469" y="3242" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0023" x="469" y="3242" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0024" x="469" y="3242" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+	<SubTexture name="gf talk0025" x="469" y="3242" width="469" height="487" frameX="-6" frameY="0" frameWidth="481" frameHeight="487"/>
+</TextureAtlas>
