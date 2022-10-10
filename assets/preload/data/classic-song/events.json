@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "Studiopolish",
+		"player1": "bf_pixel",
+		"player2": "sonic_classic",
+		"player3": null,
+		"events": [
+			[
+				64489.5104895105,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				64683.5664335664,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				64699.3006993007,
+				[
+					[
+						"Zoom",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				64804.1958041958,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				64909.0909090909,
+				[
+					[
+						"Cinematics",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				104976.398601399,
+				[
+					[
+						"Cinematics",
+						"",
+						"2"
+					]
+				]
+			],
+			[
+				104979.020979021,
+				[
+					[
+						"Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_pixel",
+		"bpm": 143,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "classic-song."
+	}
+}
