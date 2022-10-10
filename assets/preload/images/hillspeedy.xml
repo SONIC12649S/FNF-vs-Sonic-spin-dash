@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hillspeedy.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hillspeedy0000" x="0" y="0" width="3044" height="2103" frameX="0" frameY="-3" frameWidth="3044" frameHeight="2106"/>
+	<SubTexture name="hillspeedy0001" x="3054" y="0" width="2910" height="2103" frameX="0" frameY="-3" frameWidth="3044" frameHeight="2106"/>
+	<SubTexture name="hillspeedy0002" x="0" y="2113" width="2776" height="2103" frameX="0" frameY="-3" frameWidth="3044" frameHeight="2106"/>
+	<SubTexture name="hillspeedy0003" x="2786" y="2113" width="2701" height="2106" frameX="0" frameY="0" frameWidth="3044" frameHeight="2106"/>
+	<SubTexture name="hillspeedy0004" x="0" y="0" width="3044" height="2103" frameX="0" frameY="-3" frameWidth="3044" frameHeight="2106"/>
+	<SubTexture name="hillspeedy0005" x="3054" y="0" width="2910" height="2103" frameX="0" frameY="-3" frameWidth="3044" frameHeight="2106"/>
+	<SubTexture name="hillspeedy0006" x="0" y="2113" width="2776" height="2103" frameX="0" frameY="-3" frameWidth="3044" frameHeight="2106"/>
+	<SubTexture name="hillspeedy0007" x="2786" y="2113" width="2701" height="2106" frameX="0" frameY="0" frameWidth="3044" frameHeight="2106"/>
+</TextureAtlas>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spacebar.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spacebar lol0000" x="0" y="0" width="1032" height="766" frameX="0" frameY="-274" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0001" x="0" y="0" width="1032" height="766" frameX="0" frameY="-274" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0002" x="1032" y="0" width="1032" height="1040"/>
+	<SubTexture name="spacebar lol0003" x="2064" y="0" width="1032" height="1040"/>
+	<SubTexture name="spacebar lol0004" x="3096" y="0" width="1032" height="1012" frameX="0" frameY="-28" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0005" x="4128" y="0" width="1032" height="1012" frameX="0" frameY="-28" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0006" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0007" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0008" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0009" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0010" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0011" x="0" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0012" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0013" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0014" x="2064" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0015" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0016" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0017" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0018" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0019" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0020" x="0" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0021" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0022" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0023" x="2064" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0024" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0025" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0026" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0027" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0028" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0029" x="0" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0030" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0031" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0032" x="2064" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0033" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0034" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0035" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0036" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0037" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0038" x="0" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0039" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0040" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0041" x="2064" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0042" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0043" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0044" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0045" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0046" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0047" x="0" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0048" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0049" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0050" x="2064" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0051" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0052" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0053" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0054" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0055" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0056" x="0" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0057" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0058" x="1032" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0059" x="2064" y="1040" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0060" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0061" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0062" x="5160" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0063" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+	<SubTexture name="spacebar lol0064" x="6192" y="0" width="1032" height="1031" frameX="0" frameY="-9" frameWidth="1032" frameHeight="1040"/>
+</TextureAtlas>

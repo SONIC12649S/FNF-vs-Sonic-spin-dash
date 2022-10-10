@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Plantas 20000" x="0" y="0" width="1922" height="1083" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20001" x="1922" y="0" width="1922" height="1083" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20002" x="3844" y="0" width="1922" height="1100" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20003" x="5766" y="0" width="1922" height="1100" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20004" x="0" y="1100" width="1922" height="1118" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20005" x="1922" y="1100" width="1922" height="1118" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20006" x="3844" y="1100" width="1922" height="1118" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20007" x="5766" y="1100" width="1922" height="1115" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20008" x="0" y="2218" width="1922" height="1115" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20009" x="1922" y="2218" width="1922" height="1150"/>
+	<SubTexture name="Plantas 20010" x="3844" y="2218" width="1922" height="1150"/>
+	<SubTexture name="Plantas 20011" x="5766" y="2218" width="1922" height="1150"/>
+	<SubTexture name="Plantas 20012" x="0" y="3368" width="1922" height="1150"/>
+	<SubTexture name="Plantas 20013" x="1922" y="3368" width="1922" height="1150"/>
+	<SubTexture name="Plantas 20014" x="3844" y="3368" width="1922" height="1150"/>
+	<SubTexture name="Plantas 20015" x="5766" y="3368" width="1922" height="1131" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20016" x="0" y="4518" width="1922" height="1131" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20017" x="1922" y="4518" width="1922" height="1119" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20018" x="3844" y="4518" width="1922" height="1119" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+	<SubTexture name="Plantas 20019" x="5766" y="4518" width="1922" height="1119" frameX="0" frameY="0" frameWidth="1922" frameHeight="1150"/>
+</TextureAtlas>

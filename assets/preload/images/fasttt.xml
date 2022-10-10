@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fasttt.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fasttt instance 10000" x="0" y="0" width="2050" height="1259" frameX="-91" frameY="0" frameWidth="2184" frameHeight="1259"/>
+	<SubTexture name="fasttt instance 10001" x="0" y="1269" width="2172" height="1193" frameX="0" frameY="-4" frameWidth="2184" frameHeight="1259"/>
+	<SubTexture name="fasttt instance 10002" x="0" y="2472" width="2127" height="1230" frameX="-57" frameY="-7" frameWidth="2184" frameHeight="1259"/>
+</TextureAtlas>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="blizzard.png">
+	<!-- Created with Adobe Animate version 16.1.0.86 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blizzard0000" x="0" y="0" width="2396" height="1683"/>
+	<SubTexture name="blizzard0001" x="2406" y="0" width="2396" height="1683"/>
+	<SubTexture name="blizzard0002" x="4812" y="0" width="2396" height="1683"/>
+	<SubTexture name="blizzard0003" x="0" y="1693" width="2304" height="1683" frameX="0" frameY="0" frameWidth="2396" frameHeight="1683"/>
+	<SubTexture name="blizzard0004" x="2314" y="1693" width="2396" height="1683"/>
+	<SubTexture name="blizzard0005" x="4720" y="1693" width="2396" height="1683"/>
+	<SubTexture name="blizzard0006" x="0" y="3386" width="2396" height="1683"/>
+	<SubTexture name="blizzard0007" x="2406" y="3386" width="2396" height="1683"/>
+	<SubTexture name="blizzard0008" x="4812" y="3386" width="2396" height="1683"/>
+</TextureAtlas>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2b.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="2b0000" x="0" y="0" width="2504" height="1254"/>
+	<SubTexture name="2b0001" x="0" y="0" width="2504" height="1254"/>
+	<SubTexture name="2b0002" x="0" y="0" width="2504" height="1254"/>
+	<SubTexture name="2b0003" x="2504" y="0" width="2504" height="1254"/>
+	<SubTexture name="2b0004" x="2504" y="0" width="2504" height="1254"/>
+	<SubTexture name="2b0005" x="2504" y="0" width="2504" height="1254"/>
+	<SubTexture name="2b0006" x="5008" y="0" width="2504" height="1254"/>
+	<SubTexture name="2b0007" x="5008" y="0" width="2504" height="1254"/>
+	<SubTexture name="2b0008" x="0" y="1254" width="2504" height="1254"/>
+	<SubTexture name="2b0009" x="0" y="1254" width="2504" height="1254"/>
+	<SubTexture name="2b0010" x="0" y="1254" width="2504" height="1254"/>
+</TextureAtlas>

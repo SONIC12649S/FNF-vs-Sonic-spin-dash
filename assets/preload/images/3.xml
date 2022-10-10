@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="3.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fondo0000" x="0" y="0" width="1922" height="1122" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0001" x="1922" y="0" width="1922" height="1122" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0002" x="3844" y="0" width="1922" height="1122" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0003" x="5766" y="0" width="1922" height="1179" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0004" x="0" y="1179" width="1922" height="1179" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0005" x="1922" y="1179" width="1922" height="1179" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0006" x="3844" y="1179" width="1922" height="1266" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0007" x="5766" y="1179" width="1922" height="1266" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0008" x="0" y="2445" width="1922" height="1266" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0009" x="1922" y="2445" width="1922" height="1364" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0010" x="3844" y="2445" width="1922" height="1364" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0011" x="5766" y="2445" width="1922" height="1364" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0012" x="0" y="3809" width="1922" height="1538" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0013" x="1922" y="3809" width="1922" height="1538" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0014" x="3844" y="3809" width="1922" height="1538" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0015" x="5766" y="3809" width="1922" height="1725" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0016" x="0" y="5534" width="1922" height="1725" frameX="0" frameY="0" frameWidth="1922" frameHeight="1807"/>
+	<SubTexture name="fondo0017" x="1922" y="5534" width="1922" height="1807"/>
+	<SubTexture name="fondo0018" x="3844" y="5534" width="1922" height="1807"/>
+	<SubTexture name="fondo0019" x="5766" y="5534" width="1922" height="1807"/>
+</TextureAtlas>
